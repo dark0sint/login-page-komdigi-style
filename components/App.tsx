@@ -9,7 +9,7 @@ const App: React.FC = () => {
   );
 };
 
-export default App
+export default App;
 
 🎨 **Generating images based on descriptions...**
 
